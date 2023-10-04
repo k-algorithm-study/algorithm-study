@@ -4,10 +4,7 @@
 - 정경원
 - 홍찬의
 
----
-
 ### 문제 (2023.10.05 ~ 2023.10.10)
-
 | 요일   | 문제         | 유형|
 |--------|--------------|----|
 | 월요일 | [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188), [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)   | 유형    |
@@ -16,6 +13,9 @@
 | 목요일 | [수 졍렬하기 2](https://www.acmicpc.net/problem/2751), [ATM](https://www.acmicpc.net/problem/11399)   |  정렬   |
 | 금요일 | [그룹 단어 체커](https://www.acmicpc.net/problem/1316), [셀프 넘버](https://www.acmicpc.net/problem/4673)   | 구현   |
 | 토요일 | [설탕 배달](https://www.acmicpc.net/problem/2839), [동전 0](https://www.acmicpc.net/problem/11047)   | 그리디   |
+
+### 문제 담당
+<img width="313" alt="image" src="https://github.com/k-algorithm-study/algorithm-study/assets/75025163/9c50468b-7efc-4087-af8d-0b56225a20ca">
 
 ### 로테이션
 - 그리디, 구현, 정렬
