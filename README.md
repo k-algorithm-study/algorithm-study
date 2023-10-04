@@ -3,7 +3,7 @@
 |      유명한       |          정경원         |       홍찬의         |                                                                                                               
 | :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |   <img width="160px" src="https://avatars.githubusercontent.com/u/75025163?v=4.png" />    |            <img width="160px" src="https://avatars.githubusercontent.com/u/103038606?v=4.png" />              |                   <img width="160px" src="https://avatars.githubusercontent.com/u/75023467?v=4.png"/>   |
-|   [@yumyeonghan](https://github.com/yumyeonghan)   |  [@kw99j10](https://github.com/kw99j10 )    | [@hcu55](https://github.com/SangBeom-Hahn)  |
+|   [@yumyeonghan](https://github.com/yumyeonghan)   |  [@kw99j10](https://github.com/kw99j10 )    | [@hcu55](https://github.com/hcu55)  |
 
 <hr>
 
