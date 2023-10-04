@@ -10,7 +10,7 @@
 | 월요일 | [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188), [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)   | 유형    |
 | 화요일 | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870), [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)   | 유형    |
 | 수요일 | 스터디   | 회의    |
-| 목요일 | [수 졍렬하기 2](https://www.acmicpc.net/problem/2751), [ATM](https://www.acmicpc.net/problem/11399)   |  정렬   |
+| 목요일 | [수 찾기](https://www.acmicpc.net/problem/1920)   |  정렬   |
 | 금요일 | [그룹 단어 체커](https://www.acmicpc.net/problem/1316), [셀프 넘버](https://www.acmicpc.net/problem/4673)   | 구현   |
 | 토요일 | [설탕 배달](https://www.acmicpc.net/problem/2839), [동전 0](https://www.acmicpc.net/problem/11047)   | 그리디   |
 
@@ -24,7 +24,7 @@
 
 ### 난이도
 `프로그래머스(2-3단계)`
-`백준(실버5-골드4)`
+`백준(실버4-골드4)`
 
 ### 스터디 방식
 1. 한주의 문제들을 각자 맡은 후 발표 및 질의 응답 진행
