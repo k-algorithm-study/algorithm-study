@@ -1,4 +1,4 @@
-package org.example.programmers.kit.greedy;
+package org.example.yumyeonghan.programmers.kit.greedy;
 
 import java.util.*;
 
