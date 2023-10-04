@@ -27,5 +27,10 @@
 `백준(실버5-골드4)`
 
 ### 스터디 방식
+1. 한주의 문제들을 각자 맡은 후 발표 및 질의 응답 진행
+2. 다음주 문제 선정 
+
+### 스터디 규칙
+- [백준](https://www.acmicpc.net/problem/tags), [프로그래머스](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&levels=2)에서 난이도에 부합하는 문제 순서대로 풀기
 - 하루에 지정한 `두 문제` 자신의 브랜치에 커밋
 - 그날의 커밋 내역 없거나 무단 결석하면, 2만원
