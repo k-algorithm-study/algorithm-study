@@ -1,4 +1,4 @@
-package org.example.baekjoon.sort;
+package org.example.kw99j10.baekjoon.sort;
 
 import java.util.HashSet;
 import java.util.Scanner;

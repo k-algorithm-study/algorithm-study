@@ -1,8 +1,11 @@
-package org.example.baekjoon.sort;
+package org.example.kw99j10.baekjoon.sort;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**
+ * ATM, Silver IV
+ */
 public class Sort02 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
