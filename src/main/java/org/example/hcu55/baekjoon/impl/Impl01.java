@@ -3,7 +3,7 @@ package org.example.hcu55.baekjoon.impl;
 import java.util.Scanner;
 
 //그룹 단어 체커, 실버 V
-public class impl01 {
+public class Impl01 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
