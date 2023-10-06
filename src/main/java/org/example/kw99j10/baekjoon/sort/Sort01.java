@@ -13,7 +13,7 @@ public class Sort01 {
 
         int n = sc.nextInt();
 
-        var h=new HashSet<Integer>();
+        var h = new HashSet<Integer>();
 
         for (int i = 0; i < n; i++) {
             h.add(sc.nextInt());
@@ -25,10 +25,9 @@ public class Sort01 {
 
             int k = sc.nextInt();
 
-            if (h.contains(k)){
+            if (h.contains(k)) {
                 System.out.println(1);
-            }
-            else{
+            } else {
                 System.out.println(0);
             }
         }

@@ -11,7 +11,7 @@ public class Sort02 {
         int N = sc.nextInt();
         int[] arr = new int[N];
 
-        for(int i = 0; i < N; i++) {
+        for (int i = 0; i < N; i++) {
             arr[i] = sc.nextInt();
         }
 
@@ -20,7 +20,7 @@ public class Sort02 {
         int before = 0;     // 이전 사람까지 누적 합
         int sum = 0;        // 모든 사람 대기시간 합
 
-        for(int i = 0; i < N; i++) {
+        for (int i = 0; i < N; i++) {
             sum += before + arr[i];
             before += arr[i];
         }
