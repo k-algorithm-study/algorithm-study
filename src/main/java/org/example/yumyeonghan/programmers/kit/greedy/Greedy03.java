@@ -8,10 +8,10 @@ public class Greedy03 {
         int len = number.length();
         int searchNumber = 0;
 
-        for(int i = 0; i < len - k; i++) {
+        for (int i = 0; i < len - k; i++) {
             int max = 0;
-            for(int j = searchNumber; j < i + k + 1; j++) {
-                if(number.charAt(j) - '0' > max) {
+            for (int j = searchNumber; j < i + k + 1; j++) {
+                if (number.charAt(j) - '0' > max) {
                     max = number.charAt(j) - '0';
                     searchNumber = j + 1;
                 }
