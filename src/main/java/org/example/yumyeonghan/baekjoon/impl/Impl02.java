@@ -1,6 +1,7 @@
 package org.example.yumyeonghan.baekjoon.impl;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
 //셀프 넘버, 실버5
 public class Impl02 {
