@@ -8,9 +8,9 @@ import java.util.HashSet;
 public class Implementation02 {
     public static void main(String[] args) {
 
-        var h = new HashSet<Integer>(); //셀프 넘버 추출 위한 set 자료 구조
+        var h = new HashSet<Integer>(); //셀프 넘버가 아닌 수를 담을 Set 자료 구조
 
-        //범위: 1~10000의 셀프 넘버 추출
+        //범위: 1~10000
         for (int i = 1; i <= 10000; i++) {
 
             //양의 정수 n에 대해서 d(n)을 n과 n의 각 자리수를 더하기 위함
@@ -24,7 +24,7 @@ public class Implementation02 {
         }
         for (int i = 1; i <= 10000; i++) {
             if (!h.contains(i)) {
-                System.out.println(i);
+                System.out.println(i); //Set 에 없으면 셀프 넘버
             }
         }
     }
