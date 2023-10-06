@@ -12,7 +12,7 @@ public class Sort01 {
         int N = sc.nextInt();
         int[] A = new int[N];
 
-        for(int i = 0; i < N; i++) {
+        for (int i = 0; i < N; i++) {
             A[i] = sc.nextInt();
         }
 
@@ -21,11 +21,11 @@ public class Sort01 {
         int M = sc.nextInt();
         int[] arrM = new int[M];
 
-        for(int i = 0; i < M; i++) {
+        for (int i = 0; i < M; i++) {
             arrM[i] = sc.nextInt();
         }
 
-        for(int i = 0; i < M; i++) {
+        for (int i = 0; i < M; i++) {
             System.out.println(binarySearch(A, arrM[i]));
         }
 
@@ -36,13 +36,13 @@ public class Sort01 {
 
         int low = 0;
         int mid = 0;
-        int high = arr.length-1;
+        int high = arr.length - 1;
 
         while (low <= high) {
             mid = (low + high) / 2;
-            if(arr[mid] == num)
+            if (arr[mid] == num)
                 return 1;
-            else if(arr[mid] > num)
+            else if (arr[mid] > num)
                 high = mid - 1;
             else
                 low = mid + 1;
