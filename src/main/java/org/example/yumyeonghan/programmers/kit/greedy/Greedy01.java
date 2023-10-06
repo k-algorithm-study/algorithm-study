@@ -1,6 +1,6 @@
 package org.example.yumyeonghan.programmers.kit.greedy;
 
-import java.util.*;
+import java.util.Arrays;
 
 //체육복, 레벨1
 public class Greedy01 {
