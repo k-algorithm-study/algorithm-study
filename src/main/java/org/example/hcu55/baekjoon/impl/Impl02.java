@@ -1,7 +1,7 @@
 package org.example.hcu55.baekjoon.impl;
 
 //셀프 넘버, 실버 V
-public class impl02 {
+public class Impl02 {
     public static void main(String[] args) {
         boolean[] notSelfNum = new boolean[10001];
 
