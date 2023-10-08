@@ -3,8 +3,8 @@ package org.example.yumyeonghan.baekjoon.sort;
 import java.util.Arrays;
 import java.util.Scanner;
 
-//ATM, 실버4
-public class Sort02 {
+// https://www.acmicpc.net/problem/11399
+public class ATM {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

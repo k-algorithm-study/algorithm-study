@@ -1,7 +1,7 @@
 package org.example.yumyeonghan.programmers.kit.greedy;
 
-//큰 수 만들기, 레벨2
-public class Greedy03 {
+// https://school.programmers.co.kr/learn/courses/30/lessons/42883
+public class 큰수만들기 {
 
     public String solution(String number, int k) {
         StringBuilder stringBuilder = new StringBuilder();
