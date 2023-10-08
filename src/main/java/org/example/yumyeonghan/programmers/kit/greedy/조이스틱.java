@@ -1,7 +1,7 @@
 package org.example.yumyeonghan.programmers.kit.greedy;
 
-//조이스틱, 레벨2
-public class Greedy02 {
+// https://school.programmers.co.kr/learn/courses/30/lessons/42860
+public class 조이스틱 {
 
     public int solution(String name) {
         int answer = 0;

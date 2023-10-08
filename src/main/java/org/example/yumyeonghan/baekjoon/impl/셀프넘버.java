@@ -3,8 +3,8 @@ package org.example.yumyeonghan.baekjoon.impl;
 import java.util.ArrayList;
 import java.util.List;
 
-//셀프 넘버, 실버5
-public class Impl02 {
+// https://www.acmicpc.net/problem/4673
+public class 셀프넘버 {
 
     public static void main(String[] args) {
         List<Integer> list = new ArrayList<>();
