@@ -3,8 +3,8 @@ package org.example.yumyeonghan.baekjoon.greedy;
 import java.util.Arrays;
 import java.util.Scanner;
 
-//동전 0, 실버4
-public class Greedy02 {
+// https://www.acmicpc.net/problem/11047
+public class 동전0 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

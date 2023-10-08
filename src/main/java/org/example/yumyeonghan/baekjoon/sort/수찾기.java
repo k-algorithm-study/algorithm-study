@@ -4,8 +4,8 @@ package org.example.yumyeonghan.baekjoon.sort;
 import java.util.Arrays;
 import java.util.Scanner;
 
-//수 찾기, 실버4
-public class Sort01 {
+// https://www.acmicpc.net/problem/1920
+public class 수찾기 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

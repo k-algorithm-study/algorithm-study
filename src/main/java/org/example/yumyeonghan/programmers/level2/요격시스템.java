@@ -3,7 +3,7 @@ package org.example.yumyeonghan.programmers.level2;
 import java.util.Arrays;
 import java.util.Comparator;
 
-//요격시스템, 레벨2
+// https://school.programmers.co.kr/learn/courses/30/lessons/181188
 public class 요격시스템 {
 
     public int solution(int[][] targets) {
