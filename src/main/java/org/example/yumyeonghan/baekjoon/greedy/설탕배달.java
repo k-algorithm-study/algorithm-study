@@ -2,8 +2,8 @@ package org.example.yumyeonghan.baekjoon.greedy;
 
 import java.util.Scanner;
 
-//설탕 배달, 실버4
-public class Greedy01 {
+// https://www.acmicpc.net/problem/2839
+public class 설탕배달 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -2,8 +2,8 @@ package org.example.yumyeonghan.programmers.kit.greedy;
 
 import java.util.Arrays;
 
-//체육복, 레벨1
-public class Greedy01 {
+// https://school.programmers.co.kr/learn/courses/30/lessons/42862
+public class 체육복 {
 
     public int solution(int n, int[] lost, int[] reserve) {
         Arrays.sort(lost);
