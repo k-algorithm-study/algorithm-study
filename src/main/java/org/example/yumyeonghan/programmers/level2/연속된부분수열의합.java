@@ -1,7 +1,5 @@
 package org.example.yumyeonghan.programmers.level2;
 
-import java.util.Arrays;
-
 // https://school.programmers.co.kr/learn/courses/30/lessons/178870
 public class 연속된부분수열의합 {
     public int[] solution(int[] sequence, int k) {
