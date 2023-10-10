@@ -2,7 +2,9 @@ package org.example.kw99j10.programmers.lv2;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+/**
+ *  연속된 부분 수열의 합, programmers:Level 2
+ */
 public class 연속된부분수열의합 {
 
     static int[] solution(int[] sequence, int k) {
