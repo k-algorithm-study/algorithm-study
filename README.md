@@ -10,12 +10,12 @@
 ### 문제 (2023.10.05 ~ 2023.10.10)
 | 요일   | 문제         | 유형|
 |--------|--------------|----|
-| 월요일 | [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188), [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)   | LV2    |
-| 화요일 | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870), [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)   | LV2    |
+| 월요일 | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927), [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)   | LV2    |
+| 화요일 | [당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198), [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)   | LV2    |
 | 수요일 | 스터디   | 회의    |
-| 목요일 | [수 찾기](https://www.acmicpc.net/problem/1920), [ATM](https://www.acmicpc.net/problem/11399)   |  정렬   |
-| 금요일 | [그룹 단어 체커](https://www.acmicpc.net/problem/1316), [셀프 넘버](https://www.acmicpc.net/problem/4673)   | 구현   |
-| 토요일 | [설탕 배달](https://www.acmicpc.net/problem/2839), [동전 0](https://www.acmicpc.net/problem/11047)   | 그리디   |
+| 목요일 | [DFS와 BFS](https://www.acmicpc.net/problem/1260), [바이러스](https://www.acmicpc.net/problem/2606)   |  DFS/BFS   |
+| 금요일 | [숫자 카드 2](https://www.acmicpc.net/problem/10816), [나무 자르기](https://www.acmicpc.net/problem/2805)   | 이진 탐색   |
+| 토요일 | [최단 경로](https://www.acmicpc.net/problem/1753), [플로이드](https://www.acmicpc.net/problem/11404)   | 최단 경로  |
 
 
 
