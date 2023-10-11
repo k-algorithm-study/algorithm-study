@@ -7,7 +7,7 @@
 
 <hr>
 
-### 문제 (2023.10.05 ~ 2023.10.10)
+### 문제 (2023.10.12 ~ 2023.10.17)
 | 요일   | 문제         | 유형|
 |--------|--------------|----|
 | 월요일 | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927), [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)   | LV2    |
