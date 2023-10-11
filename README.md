@@ -20,7 +20,8 @@
 
 
 ### 📚문제 담당
-<img width="313" alt="image" src="https://github.com/k-algorithm-study/algorithm-study/assets/75025163/9c50468b-7efc-4087-af8d-0b56225a20ca">
+
+<img width="313" alt="image" src="https://github.com/k-algorithm-study/algorithm-study/assets/103038606/80170212-4a62-492d-ab64-3e73892e2497">
 
 ### 로테이션
 - 그리디, 구현, 정렬
