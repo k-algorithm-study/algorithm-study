@@ -1,7 +1,9 @@
 package org.example.yumyeonghan.programmers.level2;
 
+import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Comparator;
+import java.util.Deque;
 import java.util.List;
 import java.util.Stack;
 
@@ -20,7 +22,7 @@ public class 과제진행하기 {
         }
         works.sort(Comparator.comparingInt(work -> work.start)); // 시작 시간 순서로 정렬
 
-        Stack<Work> workStack = new Stack<>(); // 진행 중인 작업 스택
+        Deque<Work> workStack = new ArrayDeque<>(); // 진행 중인 작업 스택
         workStack.push(works.get(0)); // 스택에 첫 작업 푸쉬
         int currentTime = works.get(0).start; // 첫 작업 시간
         int answerIndex = 0;
