@@ -10,8 +10,8 @@
 ### 문제 (2023.10.12 ~ 2023.10.17)
 | 요일   | 문제         | 유형|
 |--------|--------------|----|
-| 월요일 | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927), [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)   | LV2    |
-| 화요일 | [당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198), [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)   | LV2    |
+| 월요일 | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871), [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)   | LV2    |
+| 화요일 | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928), [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)   | LV2    |
 | 수요일 | 스터디   | 회의    |
 | 목요일 | [DFS와 BFS](https://www.acmicpc.net/problem/1260), [바이러스](https://www.acmicpc.net/problem/2606)   |  DFS/BFS   |
 | 금요일 | [숫자 카드 2](https://www.acmicpc.net/problem/10816), [나무 자르기](https://www.acmicpc.net/problem/2805)   | 이진 탐색   |
