@@ -5,7 +5,6 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.Deque;
 import java.util.List;
-import java.util.Stack;
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/176962
 public class 과제진행하기 {
