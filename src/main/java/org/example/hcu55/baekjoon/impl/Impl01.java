@@ -8,13 +8,13 @@ public class Impl01 {
         Scanner sc = new Scanner(System.in);
 
         int N = sc.nextInt();
-        int cnt = 0;      // 그룹 단어의 개수
+        int count = 0;      // 그룹 단어의 개수
 
         for (int i = 0; i < N; i++) {
             if (check(sc.next()))
-                cnt++;
+                count++;
         }
-        System.out.println(cnt);
+        System.out.println(count);
     }
 
     public static boolean check(String str) {
