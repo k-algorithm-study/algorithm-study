@@ -4,6 +4,7 @@ import java.util.ArrayDeque;
 import java.util.Queue;
 import java.util.Scanner;
 
+// https://www.acmicpc.net/problem/1260
 public class DFS와BFS {
 
     private static int[] dfsVisited;
