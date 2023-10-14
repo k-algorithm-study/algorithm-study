@@ -86,6 +86,7 @@ public class 최단경로 {
         }
     }
 
+    // 우선 순위 큐에서 정렬에 사용 될 Comparable interface 구현
     static class Edge implements Comparable<Edge> {
 
         int target;
