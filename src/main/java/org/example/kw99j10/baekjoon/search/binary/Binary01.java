@@ -7,6 +7,9 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.StringTokenizer;
 
+/**
+ * 숫자 카드 2 - Silver IV
+ */
 public class Binary01 {
     public static void main(String[] args) throws IOException {
         //Scanner sc = new Scanner(System.in);
