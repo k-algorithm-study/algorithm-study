@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 /**
  * 최단 경로 - Gold IV
+ * 다익스트라 - 하나의 노드에서 출발하여 다른 노드로의 최단 경로를 구하는 알고리즘
  */
 public class shortestPath01 {
     static class Node {
