@@ -3,6 +3,9 @@ package org.example.kw99j10.baekjoon.search.binary;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**
+ * 나무 자르기 - Silver II
+ */
 public class Binary02 {
 
     static int[] arr;
