@@ -15,11 +15,11 @@ public class 공원산책 {
         int h = park.length;
         int w = park[0].length();
 
-        char [][] parkArray = new char[h][w];
+        char[][] parkArray = new char[h][w];
 
-        for (int i = 0; i< h; i++) {
+        for (int i = 0; i < h; i++) {
             String rowData = park[i];
-            for (int j = 0; j< w; j++) {
+            for (int j = 0; j < w; j++) {
                 char locationData = rowData.charAt(j);
                 parkArray[i][j] = locationData;
                 if (locationData == 'S') {
@@ -30,10 +30,10 @@ public class 공원산책 {
         }
         // 좌표 값 저장
         Map<Character, List<Integer>> dirMove = new HashMap<Character, List<Integer>>();
-        dirMove.put('E', List.of(0,1));
-        dirMove.put('W', List.of(0,-1));
-        dirMove.put('N', List.of(-1,0));
-        dirMove.put('S', List.of(1,0));
+        dirMove.put('E', List.of(0, 1));
+        dirMove.put('W', List.of(0, -1));
+        dirMove.put('N', List.of(-1, 0));
+        dirMove.put('S', List.of(1, 0));
 
         // routes 만큼 반복한다.
         for (String route : routes) {
@@ -48,11 +48,11 @@ public class 공원산책 {
             boolean possible = true;
 
             // 해당 방향으로 몇칸을 이동해야해서, 한칸씩 이동하며 가능성을 확인한다.
-            for (int i=0; i<move; i++) {
+            for (int i = 0; i < move; i++) {
                 int moveRow = startH + dirMove.get(direction).get(0);
                 int moveColumn = startW + dirMove.get(direction).get(1);
                 // 공원 바깥이면 실패
-                if ( 0 > moveRow || moveRow >= h || 0 > moveColumn || moveColumn >= w) {
+                if (0 > moveRow || moveRow >= h || 0 > moveColumn || moveColumn >= w) {
                     possible = false;
                     break;
                 }
@@ -70,7 +70,7 @@ public class 공원산책 {
             }
             //불가능한 경우가 존재하면 롤백
             if (possible == false) {
-                startH = tmpH ;
+                startH = tmpH;
                 startW = tmpW;
             }
         }
