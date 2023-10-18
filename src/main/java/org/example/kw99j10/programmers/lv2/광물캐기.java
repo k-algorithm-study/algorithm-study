@@ -1,7 +1,9 @@
 package org.example.kw99j10.programmers.lv2;
 
 import java.util.*;
-
+/**
+ * 광물 캐기, programmers:Level 2
+ */
 public class 광물캐기 {
 
     static class Mine{
