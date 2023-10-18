@@ -10,18 +10,18 @@
 ### 문제 (2023.10.12 ~ 2023.10.17)
 | 요일   | 문제         | 유형|
 |--------|--------------|----|
-| 월요일 | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871), [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)   | LV1   |
-| 화요일 | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928), [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)   | LV1~LV2    |
+| 월요일 | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990), [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)   | LV1   |
+| 화요일 | [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586), [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)   | LV1~LV2    |
 | 수요일 | 스터디   | 회의    |
-| 목요일 | [DFS와 BFS](https://www.acmicpc.net/problem/1260), [바이러스](https://www.acmicpc.net/problem/2606)   |  DFS/BFS   |
-| 금요일 | [숫자 카드 2](https://www.acmicpc.net/problem/10816), [나무 자르기](https://www.acmicpc.net/problem/2805)   | 이진 탐색   |
-| 토요일 | [최단 경로](https://www.acmicpc.net/problem/1753), [플로이드](https://www.acmicpc.net/problem/11404)   | 최단 경로  |
+| 목요일 | [설탕 만들기](https://www.acmicpc.net/problem/1463), [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)   |  DP   |
+| 금요일 | [미로 탐색](https://www.acmicpc.net/problem/2178), [단지번호붙이기](https://www.acmicpc.net/problem/2667)   | 그래프 이론  |
+| 토요일 | [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199), [당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)   | LV2 |
 
 
 
 ### 📚문제 담당
 
-<img width="313" alt="image" src="https://github.com/k-algorithm-study/algorithm-study/assets/103038606/80170212-4a62-492d-ab64-3e73892e2497">
+<img width="313" alt="image" src="https://github.com/k-algorithm-study/algorithm-study/assets/103038606/33f7be3d-acbd-4794-8462-2c3a129d53cd">
 
 ### 로테이션
 - 그리디, 구현, 정렬
