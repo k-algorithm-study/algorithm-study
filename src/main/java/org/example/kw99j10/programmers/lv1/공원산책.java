@@ -2,7 +2,9 @@ package org.example.kw99j10.programmers.lv1;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+/**
+ * 공원 산책, programmers:Level 1
+ */
 public class 공원산책 {
     public static int[] solution(String[] park, String[] routes) {
         int[] answer = new int[2];
