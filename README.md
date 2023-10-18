@@ -11,7 +11,7 @@
 | 요일   | 문제         | 유형|
 |--------|--------------|----|
 | 월요일 | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990), [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)   | LV1   |
-| 화요일 | [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586), [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)   | LV1~LV2    |
+| 화요일 | [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586), [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)   | LV1, LV2    |
 | 수요일 | 스터디   | 회의    |
 | 목요일 | [설탕 만들기](https://www.acmicpc.net/problem/1463), [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)   |  DP   |
 | 금요일 | [미로 탐색](https://www.acmicpc.net/problem/2178), [단지번호붙이기](https://www.acmicpc.net/problem/2667)   | 그래프 이론  |
