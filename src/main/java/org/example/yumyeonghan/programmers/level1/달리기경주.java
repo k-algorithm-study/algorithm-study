@@ -1,8 +1,6 @@
 package org.example.yumyeonghan.programmers.level1;
 
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/178871
@@ -11,7 +9,6 @@ public class 달리기경주 {
     private static Map<String, Integer> playerInfo = new HashMap<>();
 
     public String[] solution(String[] players, String[] callings) {
-        List<String> person = new ArrayList<>();
         for (int i = 0; i < players.length; i++) {
             playerInfo.put(players[i], i);
         }
