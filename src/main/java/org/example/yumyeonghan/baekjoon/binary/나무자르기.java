@@ -6,7 +6,6 @@ import java.util.Scanner;
 public class 나무자르기 {
 
     public static void main(String[] args) {
-        System.out.println("Integer.MAX_VALUE = " + Integer.MAX_VALUE);
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
         long m = scanner.nextInt();
@@ -35,7 +34,7 @@ public class 나무자르기 {
                 min = mid + 1;
             }
         }
-        System.out.println(min - 1);
+        System.out.println(max);
     }
 
 }
