@@ -28,6 +28,8 @@ public class 바탕화면정리 {
                 }
             }
         }
+
+        //정렬 시 처음 x, y값이 시작점 S이고 마지막 x, y 값에 1을 더한 값이 종료점 E
         Collections.sort(x);
         Collections.sort(y);
         answer[0]=y.get(0);
