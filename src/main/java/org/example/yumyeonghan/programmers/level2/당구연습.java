@@ -26,18 +26,26 @@ public class 당구연습 {
 
     // 4 개의 방향으로 대칭이동
     // 선 대칭일 때, 벽보다 공에 먼저 맞는 경우 제외
+
+    // 위벽
     if (!(startX == ball[0] && startY > ball[1])) {
       movedBalls.add(ball[0]);
       movedBalls.add(ball[1] * -1);
     }
+
+    // 아래벽
     if (!(startX == ball[0] && startY < ball[1])) {
       movedBalls.add(ball[0]);
       movedBalls.add(n + (n - ball[1]));
     }
+
+    // 왼쪽벽
     if (!(startY == ball[1] && startX < ball[0])) {
       movedBalls.add(m + (m - ball[0]));
       movedBalls.add(ball[1]);
     }
+
+    // 오른쪽벽
     if (!(startY == ball[1] && startX > ball[0])) {
       movedBalls.add(ball[0] * -1);
       movedBalls.add(ball[1]);
