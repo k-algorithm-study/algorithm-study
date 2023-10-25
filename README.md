@@ -7,21 +7,23 @@
 
 <hr>
 
-### 문제 (2023.10.12 ~ 2023.10.17)
+### 문제 (2023.10.26 ~ 2023.10.31)
 | 요일   | 문제         | 유형|
 |--------|--------------|----|
-| 월요일 | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990), [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)   | LV1   |
-| 화요일 | [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586), [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)   | LV1, LV2    |
+| 월요일 | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994), [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)   | LV1, LV2   |
+| 화요일 | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652), [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)   | LV1, LV2    |
 | 수요일 | 스터디   | 회의    |
-| 목요일 | [1로 만들기](https://www.acmicpc.net/problem/1463), [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)   |  DP   |
-| 금요일 | [미로 탐색](https://www.acmicpc.net/problem/2178), [단지번호붙이기](https://www.acmicpc.net/problem/2667)   | 그래프 이론  |
-| 토요일 | [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199), [당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)   | LV2 |
+| 목요일 | [회의실 배정](https://www.acmicpc.net/problem/1931), [잃어버린 괄호](https://www.acmicpc.net/problem/1541)   |  Greedy   |
+| 금요일 | [스택](https://www.acmicpc.net/problem/10828), [크로아티아 알파벳](https://www.acmicpc.net/problem/2941)   | 구현  |
+| 토요일 | [통계학](https://www.acmicpc.net/problem/2108), [좌표 압축](https://www.acmicpc.net/problem/18870)   | 정렬 |
 
 
 
 ### 📚문제 담당
 
-<img width="313" alt="image" src="https://github.com/k-algorithm-study/algorithm-study/assets/103038606/33f7be3d-acbd-4794-8462-2c3a129d53cd">
+![스크린샷 2023-10-25 182214](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/2015047c-1718-41ed-a38d-8b061a8fa0d2)
+
+
 
 ### 로테이션
 - 그리디, 구현, 정렬
