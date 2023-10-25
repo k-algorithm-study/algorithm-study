@@ -45,7 +45,7 @@ public class 혼자서하는틱택토 {
       return 0;
     }
 
-    //완성된 O나 X가 1개씩 이상 있을 때
+    // 완성된 O나 X가 1개씩 이상 있을 때 승부 불가능이므로 0을 반환
     if (successO >= 1 && successX >= 1) {
       return 0;
     }
