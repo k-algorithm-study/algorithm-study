@@ -23,6 +23,7 @@ public class 혼자서하는틱택토 {
       }
     }
 
+
     // O보다 X가 많을 때는 승부 불가능이므로 0을 반환
     if (xCnt > oCnt) {
       return 0;
