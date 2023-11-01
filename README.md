@@ -7,15 +7,15 @@
 
 <hr>
 
-### 문제 (2023.10.26 ~ 2023.10.31)
+### 문제 (2023.11.02 ~ 2023.11.07) 
 | 요일   | 문제         | 유형|
 |--------|--------------|----|
-| 월요일 | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994), [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)   | LV1, LV2   |
-| 화요일 | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652), [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)   | LV1, LV2    |
+| 월요일 | [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540), [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)   | LV2   |
+| 화요일 | [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538), [시소 짝궁](https://school.programmers.co.kr/learn/courses/30/lessons/152996)   | LV2    |
 | 수요일 | 스터디   | 회의    |
-| 목요일 | [회의실 배정](https://www.acmicpc.net/problem/1931), [잃어버린 괄호](https://www.acmicpc.net/problem/1541)   |  Greedy   |
-| 금요일 | [스택](https://www.acmicpc.net/problem/10828), [크로아티아 알파벳](https://www.acmicpc.net/problem/2941)   | 구현  |
-| 토요일 | [통계학](https://www.acmicpc.net/problem/2108), [좌표 압축](https://www.acmicpc.net/problem/18870)   | 정렬 |
+| 목요일 | [유기농 배추](https://www.acmicpc.net/problem/1012), [연결 요소의 개수](https://www.acmicpc.net/problem/11724)   |  DFS/BFS  |
+| 금요일 | [랜선 자르기](https://www.acmicpc.net/problem/1654), [공유기 설치](https://www.acmicpc.net/problem/2110)   | 이진 탐색  |
+| 토요일 | [경로 찾기](https://www.acmicpc.net/problem/11403), [최소비용 구하기](https://www.acmicpc.net/problem/1916)   | 최단 경로 |
 
 
 
