@@ -12,11 +12,11 @@ public class 호텔대실 {
         int[][] hotel = new int[book_time.length][2];
 
         for (int i = 0; i < book_time.length; i++) {
-            String[] tmp1 = book_time[i][0].split(":");
-            hotel[i][0] = getTime(tmp1); //대실 시작 시각 저장
+            String[] tmp1 = getSplitTime(book_time[i], 0);
+            hotel[i][0] = getSaveTime(tmp1); //대실 시작 시각 저장
 
-            String[] tmp2 = book_time[i][1].split(":");
-            hotel[i][1] = getTime(tmp2); //대실 종료 시각 저장
+            String[] tmp2 = getSplitTime(book_time[i], 1);
+            hotel[i][1] = getSaveTime(tmp2); //대실 종료 시각 저장
         }
 
         //1. 대실 시작 시각 순 정렬
@@ -45,7 +45,13 @@ public class 호텔대실 {
         return answer;
     }
 
-    private static int getTime(String[] time) {
+    //시와 분을 나눔
+    private static String[] getSplitTime(String[] book_time, int x) {
+        return book_time[x].split(":");
+    }
+
+    //시간을 저장
+    private static int getSaveTime(String[] time) {
         return Integer.parseInt(time[0]) * 60 + Integer.parseInt(time[1]);
     }
 }
