@@ -1,7 +1,6 @@
 package org.example.yumyeonghan.baekjoon.greedy;
 
 import java.util.Arrays;
-import java.util.Comparator;
 import java.util.Scanner;
 
 // https://www.acmicpc.net/problem/1931
