@@ -1,5 +1,6 @@
 package org.example.kw99j10.programmers.lv1;
 
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.LinkedList;
 
@@ -11,11 +12,8 @@ public class 카드뭉치 {
         String answer = "Yes";
 
         //꺼내기 쉽게 하도록 카드 뭉치를 배열 -> 리스트 옮겨 담음
-        var cardList1 = new LinkedList<String>();
-        var cardList2 = new LinkedList<String>();
-
-        Collections.addAll(cardList1, cards1);
-        Collections.addAll(cardList2, cards2);
+        var cardList1 = new LinkedList<>(Arrays.asList(cards1));
+        var cardList2 = new LinkedList<>(Arrays.asList(cards2));
 
         //반복문을 통해 목표 배열의 문자열이 나오지 않으면 종료
         for (String goalCard : goal) {
