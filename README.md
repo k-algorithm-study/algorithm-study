@@ -21,9 +21,7 @@
 
 ### 📚문제 담당
 
-![스크린샷 2023-10-25 182214](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/2015047c-1718-41ed-a38d-8b061a8fa0d2)
-
-
+![스크린샷 2023-11-01 205322](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/0beb8afd-6e0f-41fb-94f1-e938b5d7aed9)
 
 ### 로테이션
 - 그리디, 구현, 정렬
