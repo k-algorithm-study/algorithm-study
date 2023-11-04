@@ -1,6 +1,5 @@
 package org.example.kw99j10.baekjoon.search.dfsBfs;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
