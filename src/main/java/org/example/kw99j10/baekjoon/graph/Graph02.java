@@ -56,15 +56,15 @@ public class Graph02 {
         int[][] xy = new int[][]{{i - 1, j}, {i + 1, j}, {i, j - 1}, {i, j + 1}};
 
         for (int[] ints : xy) {
-            int distance_x = ints[0];
-            int distance_y = ints[1];
+            int distance_y = ints[0];
+            int distance_x = ints[1];
 
             // 이동한 좌표가 미로 안에 있어야 하며,
             // 그 좌표는 1(이동할 수 있는 칸)이어야 함
             if (distance_x >= 0 && distance_x <= map[0].length - 1 &&
                     distance_y >= 0 && distance_y <= map.length - 1) {
-                if (map[distance_x][distance_y] == 1) {
-                    dfs(distance_x, distance_y);
+                if (map[distance_y][distance_x] == 1) {
+                    dfs(distance_y, distance_x);
                 }
             }
         }
