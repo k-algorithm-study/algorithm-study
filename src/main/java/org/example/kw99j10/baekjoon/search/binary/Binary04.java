@@ -3,6 +3,9 @@ package org.example.kw99j10.baekjoon.search.binary;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**
+ * 공유기 설치 - Gold IV
+ */
 public class Binary04 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
