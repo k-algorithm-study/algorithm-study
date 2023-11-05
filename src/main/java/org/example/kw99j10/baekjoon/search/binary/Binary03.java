@@ -3,6 +3,9 @@ package org.example.kw99j10.baekjoon.search.binary;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**
+ * 랜선 자르기 - Silver II
+ */
 public class Binary03 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
