@@ -3,8 +3,8 @@ package org.example.yumyeonghan.baekjoon.short_path;
 import java.util.Scanner;
 
 /**
- * 가중치 개념이 없는 단순 최소 경로 문제 -> BFS 가중치 개념이 있는 한 노드 기준의 최소 경로 값 -> Dijkstra (다익스트라) 가중치 개념이 있는 모든 노드기
- * 준의 최소 경로 값 -> Floyd Warshall(플로이드 와샬)
+ * 가중치 개념이 없는 단순 최소 경로 문제 -> BFS 가중치 개념이 있는 한 노드 기준의 최소 경로 값 -> Dijkstra (다익스트라) 가중치 개념이 있는 모든 노드
+ * 기준의 최소 경로 값 -> Floyd Warshall(플로이드 와샬)
  */
 
 // https://www.acmicpc.net/problem/11404
