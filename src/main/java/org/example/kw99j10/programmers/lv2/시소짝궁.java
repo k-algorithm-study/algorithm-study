@@ -11,7 +11,7 @@ public class 시소짝궁 {
         long answer = 0; //시소 짝궁의 쌍을 리턴하는 변수
 
         var siso = new HashMap<Double, Integer>(); //시소 짝궁을 담을 set
-        Arrays.sort(weights); //중복 방지를 위한 정렬
+        Arrays.sort(weights); //중복 방지 & 값의 포함 여부를 확인하기 위한 정렬
 
         //주어진 몸무게
         for (double tmp : weights) {
