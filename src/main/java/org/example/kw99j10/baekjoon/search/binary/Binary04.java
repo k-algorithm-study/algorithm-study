@@ -20,8 +20,8 @@ public class Binary04 {
 
         Arrays.sort(modem); //이분 탐색을 위한 정렬
 
-        //탐색 범위 시작은 1, 끝은 배열의 마지막 요소
-        long start = 1; // /by zero 오류 발생 대비
+        //탐색 범위 시작은 1: 공유기의 최소 거리, 끝은 배열의 마지막 요소
+        long start = 1;
         long mid = 0;
         long end = modem[modem.length - 1];
 
@@ -31,8 +31,7 @@ public class Binary04 {
             mid = (start + end) / 2;
 
             /**
-             * greedy 이전 집과 현재 집 좌표의 거리를 비교하여
-             * 공유기 개수 증가
+             * 이전 집과 현재 집 좌표의 거리를 비교하여 공유기 개수 증가
              */
             count = 1; //첫 집에 공유기 설치
 
