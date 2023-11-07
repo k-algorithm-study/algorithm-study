@@ -18,21 +18,15 @@ public class 숫자변환하기 {
 
         for (int i = x + 1; i <= y; i++) {
 
-            int a = INF; // x에 n을 더함
-            int b = INF; //x에 2를 곱함
-            int c = INF; //x에 3을 곱함
-
             if (i % 3 == 0) {
-                c = dp[i / 3] + 1;
+                dp[i] = Math.min(dp[i], dp[i / 3] + 1);
             }
             if (i % 2 == 0) {
-                b = dp[i / 2] + 1;
+                dp[i] = Math.min(dp[i], dp[i / 2] + 1);
             }
             if (i - n >= x) {
-                a = dp[i - n] + 1;
+                dp[i] = Math.min(dp[i], dp[i - n] + 1);
             }
-            int min = Math.min(a, Math.min(b, c));
-            dp[i] = Math.min(INF, min);
         }
         return dp[y] == INF ? -1 : dp[y];
     }
