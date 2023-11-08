@@ -7,21 +7,21 @@
 
 <hr>
 
-### 문제 (2023.11.02 ~ 2023.11.07) 
+### 문제 (2023.11.09 ~ 2023.11.14) 
 | 요일   | 문제         | 유형|
 |--------|--------------|----|
-| 월요일 | [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540), [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)   | LV2   |
-| 화요일 | [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538), [시소 짝궁](https://school.programmers.co.kr/learn/courses/30/lessons/152996)   | LV2    |
+| 월요일 | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368), [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)   | LV2   |
+| 화요일 | [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652), [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)   | LV2    |
 | 수요일 | 스터디   | 회의    |
-| 목요일 | [유기농 배추](https://www.acmicpc.net/problem/1012), [연결 요소의 개수](https://www.acmicpc.net/problem/11724)   |  DFS/BFS  |
-| 금요일 | [랜선 자르기](https://www.acmicpc.net/problem/1654), [공유기 설치](https://www.acmicpc.net/problem/2110)   | 이진 탐색  |
-| 토요일 | [경로 찾기](https://www.acmicpc.net/problem/11403), [최소비용 구하기](https://www.acmicpc.net/problem/1916)   | 최단 경로 |
+| 목요일 | [피보나치 함수](https://www.acmicpc.net/problem/1003), [2XN 타일링](https://www.acmicpc.net/problem/11726)   |  DP  |
+| 금요일 | [토마토](https://www.acmicpc.net/problem/7576), [숨바꼭질](https://www.acmicpc.net/problem/1697)   | 그래프 이론  |
+| 토요일 | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370), [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)   | LV1,LV2 |
 
 
 
 ### 📚문제 담당
 
-![스크린샷 2023-11-01 205322](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/0beb8afd-6e0f-41fb-94f1-e938b5d7aed9)
+![스크린샷 2023-11-08 203851](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/ed252373-7957-404c-b705-6770a44db82e)
 
 ### 로테이션
 - 그리디, 구현, 정렬
@@ -30,7 +30,7 @@
 
 
 ### 난이도
-`프로그래머스(2-3단계)`
+`프로그래머스(1-2단계)`
 `백준(실버5-골드4)`
 
 <hr>
@@ -42,4 +42,4 @@
 ### 📚스터디 규칙
 - [백준](https://www.acmicpc.net/problem/tags), [프로그래머스](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&levels=2)에서 난이도에 부합하는 문제 순서대로 풀기
 - 하루에 지정한 `두 문제` 자신의 브랜치에 커밋
-- 그날의 커밋 내역 없거나 무단 결석하면, 2만원
+- 노션에 자신이 맡은 문제에 대하여 해설 기입
