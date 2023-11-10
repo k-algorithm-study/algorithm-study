@@ -66,9 +66,9 @@ public class shortestPath04 {
 
         while (!queue.isEmpty()) {
             Node node = queue.poll();
-            System.out.println(node.v+" "+node.cost);
 
-            if (node.v == end) { //start -> end 까지의 최단 거리를 찾음
+            //도착노드에 도달했다면 이미 최단 거리가 갱신된 상태
+            if (node.v == end) {
                 System.out.println(distance[end]);
                 break;
             }
