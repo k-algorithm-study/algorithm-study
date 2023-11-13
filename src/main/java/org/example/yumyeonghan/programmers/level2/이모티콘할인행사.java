@@ -4,8 +4,8 @@ package org.example.yumyeonghan.programmers.level2;
 public class 이모티콘할인행사 {
 
   private int[] sales = {10, 20, 30, 40};
-  private int sub = 0;
-  private int earn = 0;
+  private int sub = 0; // 최대 총 서비스 가입자
+  private int earn = 0; // 최대 총 판매 금액
 
   public int[] solution(int[][] users, int[] emoticons) {
     int[] answer = new int[2];
@@ -30,8 +30,8 @@ public class 이모티콘할인행사 {
 
   // 적용된 각 이모티콘에 대한 할인율에 따라 계산 후, 서비스 가입자(sub) 및 판매액(earn) 갱신
   private void calculate(int[] discounts, int[][] users, int[] emoticons) {
-    int subTmp = 0;
-    int earnTmp = 0;
+    int subTmp = 0; // 임시 총 서비스 가입자
+    int earnTmp = 0; // 임시 총 판매 금액
 
     // 사용자마다 서비스 가입 및 판매액 확인
     for (int[] user : users) {
@@ -55,8 +55,8 @@ public class 이모티콘할인행사 {
       }
     }
 
-    // 해당 이모티콘 할인율로 인해 가입자가 더 많아 졌으면, 그에 따른 가입자와 판매액 적용
-    // 가입자가 같으면, 두번 째 조건인 판매액이 더 큰것 적용
+    // 이전 할인율에서 계산했던 총 서비스 가입자 수보다 더 많으면 현재 구해진 가입자와 판매액 모두 갱신
+    // 이전 할인율에서 계산했던 총 서비스 가입자 수와 같다면 현재 구해진 판매액과 비교해서 판매액만 더 큰것으로 갱신
     if (subTmp > sub) {
       sub = subTmp;
       earn = earnTmp;
