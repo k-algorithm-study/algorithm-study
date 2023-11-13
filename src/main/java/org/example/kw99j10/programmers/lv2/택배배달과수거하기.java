@@ -2,10 +2,14 @@ package org.example.kw99j10.programmers.lv2;
 
 import java.util.LinkedList;
 
+/**
+ * 택배 배달과 수거하기, programmers:Level 2
+ */
 public class 택배배달과수거하기 {
     public long solution(int cap, int n, int[] deliveries, int[] pickups) {
         long answer = 0;
 
+        //상자 개수 & 거리를 담을 리스트
         var deliver = new LinkedList<int[]>();
         var pickup = new LinkedList<int[]>();
 
@@ -21,6 +25,7 @@ public class 택배배달과수거하기 {
         int sum; //택배 상자의 합
         int dist; //이동 거리
 
+        // 배달 or 수거 상자 모두 없으면 반복문 종료
         while (!deliver.isEmpty() || !pickup.isEmpty()) {
 
             sum = 0;
@@ -28,7 +33,7 @@ public class 택배배달과수거하기 {
 
             while (!deliver.isEmpty()) {
                 if (sum >= cap) {
-                    break;
+                    break; //택배 합이 트럭에 실을 수 있는 최대 상자 개수보다 크거나 같아지면 종료
                 }
                 int[] poll = deliver.pollLast(); //마지막 요소(거리가 가장 긴 집)
 
@@ -48,7 +53,7 @@ public class 택배배달과수거하기 {
             }
             System.out.println(dist);
 
-            sum = 0;
+            sum = 0; //누적 합 초기화: 배달 -> 수거
             while (!pickup.isEmpty()) {
                 if (sum >= cap) {
                     break;
