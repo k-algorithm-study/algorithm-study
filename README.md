@@ -7,21 +7,22 @@
 
 <hr>
 
-### 문제 (2023.11.09 ~ 2023.11.14) 
+### 문제 (2023.11.16 ~ 2023.11.21) 
 | 요일   | 문제         | 유형|
 |--------|--------------|----|
-| 월요일 | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368), [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)   | LV2   |
-| 화요일 | [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652), [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)   | LV2    |
+| 월요일 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086), [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)   | LV1, LV2   |
+| 화요일 | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108), [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)   | LV1, LV2    |
 | 수요일 | 스터디   | 회의    |
-| 목요일 | [피보나치 함수](https://www.acmicpc.net/problem/1003), [2XN 타일링](https://www.acmicpc.net/problem/11726)   |  DP  |
-| 금요일 | [토마토](https://www.acmicpc.net/problem/7576), [숨바꼭질](https://www.acmicpc.net/problem/1697)   | 그래프 이론  |
-| 토요일 | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370), [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)   | LV1,LV2 |
+| 목요일 | [로프](https://www.acmicpc.net/problem/2217), [수들의 합](https://www.acmicpc.net/problem/1789)   |  Greedy  |
+| 금요일 | [분수찾기](https://www.acmicpc.net/problem/1193), [제로](https://www.acmicpc.net/problem/10773)   | 구현  |
+| 토요일 | [30](https://www.acmicpc.net/problem/10610), [신입 사원](https://www.acmicpc.net/problem/1946)   | 정렬 |
 
 
 
 ### 📚문제 담당
 
-![스크린샷 2023-11-08 203851](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/ed252373-7957-404c-b705-6770a44db82e)
+![스크린샷 2023-11-15 235829](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/dbdcd237-b08f-4225-8c9b-9d5251862bc3)
+
 
 ### 로테이션
 - 그리디, 구현, 정렬
