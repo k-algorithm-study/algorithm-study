@@ -3,7 +3,6 @@ package org.example.yumyeonghan.baekjoon.greedy;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Scanner;
 
 // https://www.acmicpc.net/problem/1789
 public class 수들의합 {
