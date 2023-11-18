@@ -23,7 +23,7 @@ public class Sort06 {
 
         for (int i = 0; i < t; i++) {
 
-            int max = 0; //선발할 수 있는 최대 신입사원 수
+            int max = 1; //선발할 수 있는 최대 신입사원 수
 
             st = new StringTokenizer(br.readLine());
             int n = Integer.parseInt(st.nextToken()); //지원자 수
@@ -39,36 +39,16 @@ public class Sort06 {
             //서류심사 성적 기준 오름차순 정렬
             Arrays.sort(arr, Comparator.comparingInt(o -> o[0]));
 
-            int min_apply_doc = arr[0][0];
-            int min_apply_interview = arr[0][1];
+            int minInterviewRank = arr[0][1]; //첫 번째 지원자의 면접 점수
 
+
+            //성적 기준 오름차순 정렬이므로 면접 점수만 비교하여 사원 선발
             for (int j = 1; j < n; j++) {
 
-                int apply_doc = arr[j][0];
                 int apply_interview = arr[j][1];
 
-                if (apply_doc >= min_apply_doc || apply_interview >= min_apply_interview) {
-                    max += 1;
-                }
-
-                boolean k = true;
-
-                for (int s = 0; s < n; s++) {
-
-                    if (s == j) {
-                        continue;
-                    }
-
-                    int tmp_doc = arr[s][0];
-                    int tmp_interview = arr[s][1];
-
-                    //서류 점수와 면접 점수 등수 > 다른 사람의 서류 점수와 면접 점수 등수
-                    if (apply_interview > tmp_interview && apply_doc > tmp_doc) {
-                        k = false;
-                        break;
-                    }
-                }
-                if (k) {
+                if (minInterviewRank > apply_interview) {
+                    minInterviewRank = apply_interview;
                     max += 1;
                 }
             }
