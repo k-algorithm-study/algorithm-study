@@ -15,7 +15,7 @@ public class 디펜스게임 {
             return enemy.length;
         }
 
-        //무적권 사용 여부를 판단하기 위함 & 우선순위 큐 오름차순 정렬
+        //무적권 사용 여부를 판단하기 위함 & 우선순위 큐 내림차순 정렬
         PriorityQueue<Integer> queue = new PriorityQueue<>(Collections.reverseOrder());
 
         for (int i = 0; i < enemy.length; i++) {
