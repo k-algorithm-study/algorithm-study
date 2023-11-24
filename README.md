@@ -7,21 +7,22 @@
 
 <hr>
 
-### 문제 (2023.11.16 ~ 2023.11.21) 
+### 문제 (2023.11.23 ~ 2023.11.28) 
 | 요일   | 문제         | 유형|
 |--------|--------------|----|
-| 월요일 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086), [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)   | LV1, LV2   |
-| 화요일 | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108), [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)   | LV1, LV2    |
+| 월요일 | [명예의 전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477), [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)   | LV1, LV2   |
+| 화요일 | [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798), [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)   | LV1, LV2    |
 | 수요일 | 스터디   | 회의    |
-| 목요일 | [로프](https://www.acmicpc.net/problem/2217), [수들의 합](https://www.acmicpc.net/problem/1789)   |  Greedy  |
-| 금요일 | [분수찾기](https://www.acmicpc.net/problem/1193), [제로](https://www.acmicpc.net/problem/10773)   | 구현  |
-| 토요일 | [30](https://www.acmicpc.net/problem/10610), [신입 사원](https://www.acmicpc.net/problem/1946)   | 정렬 |
+| 목요일 | [연구소](https://www.acmicpc.net/problem/14502), [적록색약](https://www.acmicpc.net/problem/10026)   |  DFS/BFS  |
+| 금요일 | [두 용액](https://www.acmicpc.net/problem/2470), [게임](https://www.acmicpc.net/problem/1072)   | 이진 탐색  |
+| 토요일 | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389), [특정한 최단 경로](https://www.acmicpc.net/problem/1504)   | 최단 경로 |
 
 
 
 ### 📚문제 담당
 
-![스크린샷 2023-11-15 235829](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/dbdcd237-b08f-4225-8c9b-9d5251862bc3)
+![스크린샷 2023-11-22 130930](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/d16002c5-94ea-4a3f-8729-105639fa4627)
+
 
 
 ### 로테이션
