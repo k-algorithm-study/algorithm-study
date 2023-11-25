@@ -6,8 +6,6 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.Arrays;
-import java.util.StringTokenizer;
-import java.util.regex.Pattern;
 
 // https://www.acmicpc.net/problem/2470
 public class 두용액 {
