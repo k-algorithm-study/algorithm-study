@@ -11,7 +11,7 @@
 | 요일   | 문제         | 유형|
 |--------|--------------|----|
 | 월요일 | [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502), [옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)   | LV1 |
-| 화요일 | [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267), [롤케이크 자르](https://school.programmers.co.kr/learn/courses/30/lessons/132265)   | LV1, LV2    |
+| 화요일 | [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267), [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)   | LV1, LV2    |
 | 수요일 | 스터디   | 회의    |
 | 목요일 | [RGB거리](https://www.acmicpc.net/problem/1149), [계단 오르기](https://www.acmicpc.net/problem/2579)   |  DP  |
 | 금요일 | [토마토](https://www.acmicpc.net/problem/7569), [안전 영역](https://www.acmicpc.net/problem/2468)   | 그래프 이론  |
