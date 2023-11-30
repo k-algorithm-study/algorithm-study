@@ -34,6 +34,7 @@ public class Binary05 {
         //두 용액의 특성값이 0에 가장 가까운 용액을 리턴할 배열
         int[] result = new int[2];
 
+        //서로 다른 용액을 혼합해야 하는데 같은 용액을 혼합할 수 없으므로 '='을 붙일 수 없음
         while (start < end) {
 
             int sum = arr[start] + arr[end]; //두 용액의 특성값
