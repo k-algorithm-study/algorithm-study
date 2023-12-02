@@ -17,7 +17,6 @@ public class 계단오르기 {
         for (int i = 1; i <= N; i++) {
             arr[i] = sc.nextInt();
         }
-
         dp[0] = arr[0];     // 초기화
         dp[1] = arr[1];
 
