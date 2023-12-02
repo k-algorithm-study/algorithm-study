@@ -7,6 +7,17 @@
 
 <hr>
 
+<<<<<<< HEAD
+### 문제 (2023.11.23 ~ 2023.11.28) 
+| 요일   | 문제         | 유형|
+|--------|--------------|----|
+| 월요일 | [명예의 전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477), [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)   | LV1, LV2   |
+| 화요일 | [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798), [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)   | LV1, LV2    |
+| 수요일 | 스터디   | 회의    |
+| 목요일 | [연구소](https://www.acmicpc.net/problem/14502), [적록색약](https://www.acmicpc.net/problem/10026)   |  DFS/BFS  |
+| 금요일 | [두 용액](https://www.acmicpc.net/problem/2470), [게임](https://www.acmicpc.net/problem/1072)   | 이진 탐색  |
+| 토요일 | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389), [특정한 최단 경로](https://www.acmicpc.net/problem/1504)   | 최단 경로 |
+=======
 ### 문제 (2023.11.30 ~ 2023.12.5) 
 | 요일   | 문제         | 유형|
 |--------|--------------|----|
@@ -16,13 +27,18 @@
 | 목요일 | [RGB거리](https://www.acmicpc.net/problem/1149), [계단 오르기](https://www.acmicpc.net/problem/2579)   |  DP  |
 | 금요일 | [토마토](https://www.acmicpc.net/problem/7569), [안전 영역](https://www.acmicpc.net/problem/2468)   | 그래프 이론  |
 | 토요일 | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240), [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)   | LV1, LV2  |
+>>>>>>> 80f737b4472be5ae91cadee17644344cfb0b968a
 
 
 
 ### 📚문제 담당
 
+<<<<<<< HEAD
+![스크린샷 2023-11-22 130930](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/d16002c5-94ea-4a3f-8729-105639fa4627)
+=======
 
 ![스크린샷 2023-11-29 184441](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/8fdb86ab-aa7a-4f6d-a0bd-dc93541c71a3)
+>>>>>>> 80f737b4472be5ae91cadee17644344cfb0b968a
 
 
 
