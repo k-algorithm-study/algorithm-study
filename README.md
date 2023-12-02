@@ -17,7 +17,6 @@
 | 목요일 | [RGB거리](https://www.acmicpc.net/problem/1149), [계단 오르기](https://www.acmicpc.net/problem/2579)   |  DP  |
 | 금요일 | [토마토](https://www.acmicpc.net/problem/7569), [안전 영역](https://www.acmicpc.net/problem/2468)   | 그래프 이론  |
 | 토요일 | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240), [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)   | LV1, LV2  |
->>>>>>> 80f737b4472be5ae91cadee17644344cfb0b968a
 
 
 
