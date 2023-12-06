@@ -9,14 +9,13 @@ public class 푸드파이트대회 {
 
         for (int i = 1; i < food.length; i++) {
             for (int j = 1; j <= food[i] / 2; j++) {
-                leftFood = leftFood + i;
+                leftFood += i;
             }
         }
-        for (int i = food.length - 1; i >= 1; i--) {
-            int b = (food[i] / 2);
 
-            for (int j = b; j >= 1; j--) {
-                rightFood = rightFood + i;
+        for (int i = food.length - 1; i >= 1; i--) {
+            for (int j = food[i] / 2; j >= 1; j--) {
+                rightFood += i;
             }
         }
         answer = leftFood + "0" + rightFood;
