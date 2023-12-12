@@ -21,7 +21,6 @@ public class 계단오르기 {
 
     for (int i = 4; i <= n; i++) {
       // 연속된 3개의 계단을 밟으면 안되기 때문에 점화식을 다음과 같이 세움
-      // => (i - 3) + (i - 1) + i or (i - 2) + i
       dp[i] = Math.max(dp[i - 3] + stairs[i - 1] + stairs[i], dp[i - 2] + stairs[i]);
     }
     System.out.println(dp[n]);
