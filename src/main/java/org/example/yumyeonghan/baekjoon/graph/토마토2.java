@@ -7,10 +7,10 @@ import java.util.Scanner;
 // https://www.acmicpc.net/problem/7569
 public class 토마토2 {
 
-  private static int[] rz = {0, 0, 0, 0, -1, 1};
-  private static int[] ry = {0, 0, -1, 1, 0, 0};
-  private static int[] rx = {-1, 1, 0, 0, 0, 0};
-  private static Queue<Location> ripeTomato = new LinkedList<>();
+  private static final int[] dz = {0, 0, 0, 0, -1, 1};
+  private static final int[] dy = {0, 0, -1, 1, 0, 0};
+  private static final int[] dx = {-1, 1, 0, 0, 0, 0};
+  private static final Queue<Location> ripeTomato = new LinkedList<>();
   private static int unripeTomato = 0;
   private static int day = 0;
 
@@ -50,9 +50,9 @@ public class 토마토2 {
 
         // 6가지 방향으로 탐색
         for (int j = 0; j < 6; j++) {
-          int nz = z + rz[j];
-          int ny = y + ry[j];
-          int nx = x + rx[j];
+          int nz = z + dz[j];
+          int ny = y + dy[j];
+          int nx = x + dx[j];
 
           // 좌표 범위를 벗어나거나 탐색한 좌표가 덜익은 토마토가 아니라면 무시
           if (nz < 0 || ny < 0 || nx < 0 || nz >= h || ny >= n || nx >= m
