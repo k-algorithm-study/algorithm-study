@@ -8,7 +8,7 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 // https://www.acmicpc.net/problem/7576
-public class 토마토 {
+public class 토마토1 {
 
   static int[] dx = {-1, 1, 0, 0};
   static int[] dy = {0, 0, -1, 1};
