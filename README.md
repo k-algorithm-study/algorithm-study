@@ -13,24 +13,22 @@
 <hr>
 
 
-### 문제 (2023.11.30 ~ 2023.12.5) 
+### 문제 (2023.12.13 ~ 2023.12.19) 
 | 요일   | 문제         | 유형|
 |--------|--------------|----|
-| 월요일 | [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502), [옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)   | LV1 |
-| 화요일 | [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267), [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)   | LV1, LV2    |
+| 월요일 | [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704), [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)   | LV2 |
+| 화요일 | [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130), [숫자 짝](https://school.programmers.co.kr/learn/courses/30/lessons/131128)   | LV2, LV1  |
 | 수요일 | 스터디   | 회의    |
-| 목요일 | [RGB거리](https://www.acmicpc.net/problem/1149), [계단 오르기](https://www.acmicpc.net/problem/2579)   |  DP  |
-| 금요일 | [토마토](https://www.acmicpc.net/problem/7569), [안전 영역](https://www.acmicpc.net/problem/2468)   | 그래프 이론  |
-| 토요일 | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240), [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)   | LV1, LV2  |
+| 목요일 | [주유소](https://www.acmicpc.net/problem/13305), [카드 정렬하기](https://www.acmicpc.net/problem/1715)   |  Greedy  |
+| 금요일 | [덩치](https://www.acmicpc.net/problem/7568), [덱](https://www.acmicpc.net/problem/10866)   | 구현  |
+| 토요일 | [국영수](https://www.acmicpc.net/problem/10825), [두 수의 합](https://www.acmicpc.net/problem/3273)   | 정렬 |
 
 
 
 ### 📚문제 담당
 
 
-
-![스크린샷 2023-11-29 184441](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/8fdb86ab-aa7a-4f6d-a0bd-dc93541c71a3)
-
+![스크린샷 2023-12-13 131835](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/f97ba017-eece-4b76-bcb8-3adb21da4df3)
 
 
 
