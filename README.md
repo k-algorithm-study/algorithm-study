@@ -14,14 +14,14 @@
 
 
 ### 문제 (2023.12.13 ~ 2023.12.19) 
-| 요일   | 문제         | 유형|
-|--------|--------------|----|
-| 월요일 | [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704), [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)   | LV2 |
-| 화요일 | [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130), [숫자 짝](https://school.programmers.co.kr/learn/courses/30/lessons/131128)   | LV2, LV1  |
-| 수요일 | 스터디   | 회의    |
-| 목요일 | [주유소](https://www.acmicpc.net/problem/13305), [카드 정렬하기](https://www.acmicpc.net/problem/1715)   |  Greedy  |
-| 금요일 | [덩치](https://www.acmicpc.net/problem/7568), [덱](https://www.acmicpc.net/problem/10866)   | 구현  |
-| 토요일 | [국영수](https://www.acmicpc.net/problem/10825), [두 수의 합](https://www.acmicpc.net/problem/3273)   | 정렬 |
+| 요일   | 문제                                                                                                                                                           | 유형|
+|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
+| 월요일 | [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704), [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | LV2 |
+| 화요일 | [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130), [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)     | LV2, LV1  |
+| 수요일 | 스터디                                                                                                                                                          | 회의    |
+| 목요일 | [주유소](https://www.acmicpc.net/problem/13305), [카드 정렬하기](https://www.acmicpc.net/problem/1715)                                                                |  Greedy  |
+| 금요일 | [덩치](https://www.acmicpc.net/problem/7568), [덱](https://www.acmicpc.net/problem/10866)                                                                       | 구현  |
+| 토요일 | [국영수](https://www.acmicpc.net/problem/10825), [두 수의 합](https://www.acmicpc.net/problem/3273)                                                                 | 정렬 |
 
 
 
