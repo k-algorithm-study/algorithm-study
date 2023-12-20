@@ -1,6 +1,6 @@
 # 📚 algorithm-study (2023.10.05 ~)
 
-### [노션 링크](https://mammoth-mochi-178.notion.site/3bfb8a5793224b03a0c00df09e7ec4c9?pvs=4)
+### [위키 링크](https://github.com/k-algorithm-study/algorithm-study/wiki)
 - `문제 해결 과정 정리`
 - `코드 풀이 과정 정리`
 
