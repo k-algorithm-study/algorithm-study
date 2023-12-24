@@ -37,7 +37,7 @@ public class 좋다 {
         }
 
         // no answer
-        if (start >= end || targetIndex == start || end == targetIndex) {
+        if (start >= end) {
           break;
         }
 
