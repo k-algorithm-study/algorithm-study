@@ -37,14 +37,14 @@ public class Binary08 {
                 }
                 else {
                     if (start != i && end != i){
-                        count += 1;
+                        count += 1; //조건을 만족하는 쌍
                         break;
                     }
                     else if(start == i){
-                        start += 1;
+                        start += 1; //중복 방지: 같은 값이 두 번 선택될 수 있음
                     }
                     else {
-                        end -= 1;
+                        end -= 1; //중복 방지
                     }
                 }
             }
