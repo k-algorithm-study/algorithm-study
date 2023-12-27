@@ -16,18 +16,19 @@
 ### 문제 (2023.12.20 ~ 2023.12.27) 
 | 요일   | 문제                                                                                                                                                           | 유형|
 |--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
-| 월요일 | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127), [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | LV2 |
-| 화요일 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666), [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)     | LV1, LV2  |
+| 월요일 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334), [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | Lv1, LV2 |
+| 화요일 | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390), [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)     | LV2  |
 | 수요일 | 스터디                                                                                                                                                          | 회의    |
-| 목요일 | [섬의 개수](https://www.acmicpc.net/problem/4963), [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)                                                                |  DFS/BFS  |
-| 금요일 | [기타 레슨](https://www.acmicpc.net/problem/2343), [좋다](https://www.acmicpc.net/problem/1253)                                                                       | 이진 탐색  |
-| 토요일 | [알고스팟](https://www.acmicpc.net/problem/1261), [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)                                                                 | 최단 경로 |
+| 목요일 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053), [정수 삼각형](https://www.acmicpc.net/problem/1932)                                                                |  DP  |
+| 금요일 | [나이트의 이동](https://www.acmicpc.net/problem/7562), [알파벳](https://www.acmicpc.net/problem/1987)                                                                       | 그래프 이론  |
+| 토요일 | [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341), [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)                                                                 | Lv2 |
 
 
 
 ### 📚문제 담당
 
-![스크린샷 2023-12-20 185829](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/0bedf76e-163a-4377-ac46-905f39c67105)
+<img width="323" alt="KakaoTalk_20231227_194009954" src="https://github.com/k-algorithm-study/algorithm-study/assets/103038606/9180436c-b7a0-41c5-9118-2a8561d53aec">
+
 
 
 ### 로테이션
