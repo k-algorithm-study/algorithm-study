@@ -10,9 +10,9 @@ public class n2배열자르기 {
         //문제 조건에 따른 범위를 1차원 배열에 집어 넣음
         for (int i = 0; i < answer.length; i++) {
 
-            int start = (int) (left / n + 1);
-            int end = (int) (left % n + 1);
-            answer[i] = Math.max(start, end);
+            int col = (int) (left / n + 1); //행
+            int row = (int) (left % n + 1); //열
+            answer[i] = Math.max(col, row);
             left += 1;
         }
         return answer;
