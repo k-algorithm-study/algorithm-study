@@ -24,9 +24,6 @@ public class 신고결과받기 {
             map.get(to).add(from);               // Set에 신고한 유저 추가
         }
 
-
-        // send Set에 담아주고, 2회 이상 등록된 유저의 인덱스를
-        // idxMap에서 가져와 answer 배열의 값을 +!
         for (int i = 0; i < id_list.length; i++) {
             HashSet<String> send = map.get(id_list[i]);  // map에서 신고 당한 사람 이름을 key로 신고한 사람의 set을 가져옴
             if (send.size() >= k) {                      // 신고한 사람의 수가 k 이상이면
