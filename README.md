@@ -16,18 +16,19 @@
 ### 문제 (2023.12.28 ~ 2024.1.03) -> 이후 목요일 회의로 변경
 | 요일   | 문제                                                                                                                                                           | 유형|
 |--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
-| 월요일 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334), [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | Lv1, LV2 |
-| 화요일 | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390), [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)     | LV2  |
-| 수요일 | 스터디                                                                                                                                                          | 회의    |
-| 목요일 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053), [정수 삼각형](https://www.acmicpc.net/problem/1932)                                                                |  DP  |
-| 금요일 | [나이트의 이동](https://www.acmicpc.net/problem/7562), [알파벳](https://www.acmicpc.net/problem/1987)                                                                       | 그래프 이론  |
-| 토요일 | [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341), [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)                                                                 | Lv2 |
+| 월요일 | [베스트셀러](https://www.acmicpc.net/problem/1302), [수 묶기](https://www.acmicpc.net/problem/1744)                                                                 | 정렬 |
+
+| 화요일 | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971), [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | Lv2, LV1 |
+| 수요일 | [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052), [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)     | LV2  |
+| 목요일 | 스터디                                                                                                                                                          | 회의    |
+| 금요일 | [A->B](https://www.acmicpc.net/problem/16953), [뒤집기](https://www.acmicpc.net/problem/1439)                                                                |  그리디  |
+| 토요일 | [요세푸스 문제](https://www.acmicpc.net/problem/1158), [프린터 큐](https://www.acmicpc.net/problem/1966)                                                                       | 구현  |
 
 
 
 ### 📚문제 담당
 
-<img width="323" alt="KakaoTalk_20231227_194009954" src="https://github.com/k-algorithm-study/algorithm-study/assets/103038606/9180436c-b7a0-41c5-9118-2a8561d53aec">
+![스크린샷 2024-01-04 203125](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/df3882f0-6a0f-4ad3-83bc-25d9ff3f9e7f)
 
 
 
