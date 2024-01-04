@@ -16,8 +16,7 @@
 ### 문제 (2023.12.28 ~ 2024.1.03) -> 이후 목요일 회의로 변경
 | 요일   | 문제                                                                                                                                                           | 유형|
 |--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
-| 월요일 | [베스트셀러](https://www.acmicpc.net/problem/1302), [수 묶기](https://www.acmicpc.net/problem/1744)                                                                 | 정렬 |
-
+| 월요일 | [베스트셀러](https://www.acmicpc.net/problem/1302), [수 묶기](https://www.acmicpc.net/problem/1744) | 정렬 |
 | 화요일 | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971), [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | Lv2, LV1 |
 | 수요일 | [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052), [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)     | LV2  |
 | 목요일 | 스터디                                                                                                                                                          | 회의    |
