@@ -58,7 +58,7 @@ public class 녹색옷입은애가젤다지 {
         }
       }
 
-      // start bfs
+      // start bfs + 다익스트라 알고리즘
       bfs(0, 0, map[0][0]);
       sb.append("Problem ").append(problem).append(": ").append(size[n - 1][n - 1]).append('\n');
       problem++;
