@@ -21,7 +21,7 @@ public class 행렬테두리회전하기 {
             int end_y = queries[i][3];
 
             int min = 10001;
-            int tmp = arr[start_x + 1][start_y];
+            int tmp = arr[start_x][start_y]; //시작점 (start_x,start_y)
 
             // 오른쪽 방향 이동
             for (int j = start_y; j <= end_y; j++) {
