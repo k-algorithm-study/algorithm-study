@@ -17,7 +17,7 @@
 | 요일   | 문제                                                                                                                                                           | 유형|
 |--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
 | 월요일 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484), [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | LV1, LV2 |
-| 화요일 | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412), [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | Lv2 |
+| 화요일 | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412), [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | Lv2 |
 | 수요일 | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410), [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)     | LV1, LV2  |
 | 목요일 | 스터디                                                                                                                                                          | 회의    |
 | 금요일 | [연속합](https://www.acmicpc.net/problem/1912), [파도반 수열](https://www.acmicpc.net/problem/9461)                                                                |  DP  |
