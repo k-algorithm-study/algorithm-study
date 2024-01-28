@@ -13,21 +13,22 @@
 <hr>
 
 
-### 문제 (2024.1.12 ~ 2024.1.18)
+### 문제 (2024.1.26 ~ 2024.2.1)
 | 요일   | 문제                                                                                                                                                           | 유형|
 |--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
-| 월요일 | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485), [타임머신](https://www.acmicpc.net/problem/11657) | 최단 경로 |
-| 화요일 | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302), [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | Lv2, LV1 |
-| 수요일 | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885), [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)     | LV2  |
+| 월요일 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484), [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | LV1, LV2 |
+| 화요일 | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412), [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | Lv2 |
+| 수요일 | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410), [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)     | LV1, LV2  |
 | 목요일 | 스터디                                                                                                                                                          | 회의    |
-| 금요일 | [영역 구하기](https://www.acmicpc.net/problem/2583), [촌수계산](https://www.acmicpc.net/problem/2644)                                                                |  DFS/BFS  |
-| 토요일 | [암기왕](https://www.acmicpc.net/problem/2776), [개똥벌레](https://www.acmicpc.net/problem/3020)                                                                       | 이진 탐색  |
+| 금요일 | [연속합](https://www.acmicpc.net/problem/1912), [파도반 수열](https://www.acmicpc.net/problem/9461)                                                                |  DP  |
+| 토요일 | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197), [영역 구하기](https://www.acmicpc.net/problem/2583)                                                                       | 그래프 이론  |
 
 
 
 ### 📚문제 담당
 
-<img width="298" alt="KakaoTalk_20240111_222808336" src="https://github.com/k-algorithm-study/algorithm-study/assets/103038606/4c7ed4d3-8b62-439c-b454-72a918137c0a">
+![KakaoTalk_20240124_220201753](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/e65c49d6-a32f-4b59-a999-d6bc6a0ce4aa)
+
 
 
 ### 로테이션
