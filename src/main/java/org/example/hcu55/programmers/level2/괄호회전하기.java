@@ -1,0 +1,52 @@
+package org.example.hcu55.programmers.level2;
+
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.Stack;
+
+// 괄호 회전하기, Programmers(Level 2)
+public class 괄호회전하기 {
+    public int solution(String s) {
+        int answer = 0;
+
+        Queue<String> queue = new LinkedList<>();
+
+        for(int i = 0; i < s.length(); i++){
+            String str = s.substring(i, i +1);
+            queue.add(str);
+        }
+
+        for (int i = 0; i < s.length(); i++) {
+            String firstChar = queue.poll();
+            queue.add(firstChar);
+
+            Stack<String> stack = new Stack<>();
+
+            for (int j = 0; j < s.length(); j++) {
+                String waitingStr = queue.poll();
+                queue.add(waitingStr);
+
+                if(stack.isEmpty()){
+                    stack.push(waitingStr);
+                }
+                else if(waitingStr.equals(")") && stack.peek().equals("(")){
+                    stack.pop();
+                }
+                else if(waitingStr.equals("]") && stack.peek().equals("[")){
+                    stack.pop();
+                }
+                else if(waitingStr.equals("}") && stack.peek().equals("{")){
+                    stack.pop();
+                }
+                else{
+                    stack.push(waitingStr);
+                }
+            }
+
+            if (stack.isEmpty()) {
+                answer++;
+            }
+        }
+        return answer;
+    }
+}
