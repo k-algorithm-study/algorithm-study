@@ -49,4 +49,4 @@
 ### 📚스터디 규칙
 - [백준](https://www.acmicpc.net/problem/tags), [프로그래머스](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&levels=2)에서 난이도에 부합하는 문제 순서대로 풀기
 - 하루에 지정한 `두 문제` 자신의 브랜치에 커밋
-- 노션에 자신이 맡은 문제에 대하여 해설 기입
+- Wiki(노션)에 자신이 맡은 문제에 대하여 해설 기입
