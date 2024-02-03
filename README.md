@@ -13,22 +13,21 @@
 <hr>
 
 
-### 문제 (2024.1.26 ~ 2024.2.1)
+### 문제 (2024.2.6 ~ 2024.2.8) // 인원 1명 면접 준비로 인해 2명이서 진행
 | 요일   | 문제                                                                                                                                                           | 유형|
 |--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
-| 월요일 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484), [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | LV1, LV2 |
-| 화요일 | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412), [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | Lv2 |
-| 수요일 | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410), [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)     | LV1, LV2  |
+| 월요일 | [단어 수학](https://www.acmicpc.net/problem/1339), [기타줄](https://www.acmicpc.net/problem/1049) | 그리디 |
+| 화요일 | [치킨 배달](https://www.acmicpc.net/problem/15686), [AC](https://www.acmicpc.net/problem/5430) | 구현 |
+| 수요일 | [중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867), [강의실 배정](https://www.acmicpc.net/problem/11000)     | 정렬 |
 | 목요일 | 스터디                                                                                                                                                          | 회의    |
-| 금요일 | [연속합](https://www.acmicpc.net/problem/1912), [파도반 수열](https://www.acmicpc.net/problem/9461)                                                                |  DP  |
-| 토요일 | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197), [영역 구하기](https://www.acmicpc.net/problem/2583)                                                                       | 그래프 이론  |
+| 금요일 | [...](...), [...](...)                                                                |    |
+| 토요일 | [...](...), [...](...)                                                                       |   |
 
 
 
 ### 📚문제 담당
 
-![KakaoTalk_20240124_220201753](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/e65c49d6-a32f-4b59-a999-d6bc6a0ce4aa)
-
+![스크린샷 2024-02-04 021549](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/47837a2b-434e-4588-ad5b-b355316b6e36)
 
 
 ### 로테이션
