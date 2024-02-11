@@ -13,21 +13,21 @@
 <hr>
 
 
-### 문제 (2024.2.6 ~ 2024.2.8) // 인원 1명 면접 준비로 인해 2명이서 진행
+### 문제 (2024.2.9 ~ 2024.2.15) 
 | 요일   | 문제                                                                                                                                                           | 유형|
 |--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
-| 월요일 | [단어 수학](https://www.acmicpc.net/problem/1339), [기타줄](https://www.acmicpc.net/problem/1049) | 그리디 |
-| 화요일 | [치킨 배달](https://www.acmicpc.net/problem/15686), [AC](https://www.acmicpc.net/problem/5430) | 구현 |
-| 수요일 | [중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867), [강의실 배정](https://www.acmicpc.net/problem/11000)     | 정렬 |
-| 목요일 | 스터디                                                                                                                                                          | 회의    |
-| 금요일 | [...](...), [...](...)                                                                |    |
-| 토요일 | [...](...), [...](...)                                                                       |   |
+| 월요일 | [먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795) | 이분 탐색 |
+| 화요일 | [용돈 관리](https://www.acmicpc.net/problem/6236) | 이분 탐색 |
+| 수요일 | [키 순서](https://www.acmicpc.net/problem/2458)     | 최단 경로 |
+| 목요일 | 스터디                                                | 회의    |
+| 금요일 | [숨바꼭질 3](https://www.acmicpc.net/problem/13549)                                                         | DFS/BFS |
+| 토요일 | [인구 이동](https://www.acmicpc.net/problem/16234)                                                           | DFS/BFS  |
 
 
 
 ### 📚문제 담당
 
-![스크린샷 2024-02-04 021549](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/47837a2b-434e-4588-ad5b-b355316b6e36)
+![스크린샷 2024-02-11 112920](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/210382a6-7da5-49e0-a43f-7e630252255a)
 
 
 ### 로테이션
@@ -48,5 +48,5 @@
 
 ### 📚스터디 규칙
 - [백준](https://www.acmicpc.net/problem/tags), [프로그래머스](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&levels=2)에서 난이도에 부합하는 문제 순서대로 풀기
-- 하루에 지정한 `두 문제` 자신의 브랜치에 커밋
+- 하루에 지정한 `문제` 자신의 브랜치에 커밋
 - Wiki(노션)에 자신이 맡은 문제에 대하여 해설 기입
