@@ -27,7 +27,7 @@
 
 ### 📚문제 담당
 
-![스크린샷 2024-02-11 112920](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/210382a6-7da5-49e0-a43f-7e630252255a)
+![스크린샷 2024-02-11 113158](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/b0837663-92b0-49e5-b30f-c29a52d647be)
 
 
 ### 로테이션
