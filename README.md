@@ -16,18 +16,18 @@
 ### 문제 (2024.2.9 ~ 2024.2.15) 
 | 요일   | 문제                                                                                                                                                           | 유형|
 |--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
-| 월요일 | [먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795) | 이분 탐색 |
-| 화요일 | [용돈 관리](https://www.acmicpc.net/problem/6236) | 이분 탐색 |
-| 수요일 | [키 순서](https://www.acmicpc.net/problem/2458)     | 최단 경로 |
+| 월요일 | [이분 그래프](https://www.acmicpc.net/problem/1707) | 그래프 이론 |
+| 화요일 | [네트워크 연결](https://www.acmicpc.net/problem/1922) | 그래프 이론 |
+| 수요일 | [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)     | Programmers Lv2 |
 | 목요일 | 스터디                                                | 회의    |
-| 금요일 | [숨바꼭질 3](https://www.acmicpc.net/problem/13549)                                                         | DFS/BFS |
-| 토요일 | [인구 이동](https://www.acmicpc.net/problem/16234)                                                           | DFS/BFS  |
+| 금요일 | [2xn 타일링 2](https://www.acmicpc.net/problem/11727)                                                         | DP |
+| 토요일 | [포도주 시식](https://www.acmicpc.net/problem/2156)                                                           | DP  |
 
 
 
 ### 📚문제 담당
 
-![스크린샷 2024-02-11 143237](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/45a88017-a9e9-40f8-94ca-a7b14bc850a1)
+![스크린샷 2024-02-15 223026](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/f2d3a346-3195-4349-856b-f917ebc3ea1f)
 
 
 ### 로테이션
