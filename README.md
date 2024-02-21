@@ -16,18 +16,18 @@
 ### 문제 (2024.2.16 ~ 2024.2.22) 
 | 요일   | 문제                                                                                                                                                           | 유형|
 |--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
-| 월요일 | [이분 그래프](https://www.acmicpc.net/problem/1707) | 그래프 이론 |
-| 화요일 | [네트워크 연결](https://www.acmicpc.net/problem/1922) | 그래프 이론 |
-| 수요일 | [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)     | Programmers Lv2 |
+| 월요일 | [로봇 청소기](https://www.acmicpc.net/problem/14503) | 구현 |
+| 화요일 | [테트로미노](https://www.acmicpc.net/problem/14500) | 구현 |
+| 수요일 | [전화번호 목록](https://www.acmicpc.net/problem/5052)     | 정렬 |
 | 목요일 | 스터디                                                | 회의    |
-| 금요일 | [2xn 타일링 2](https://www.acmicpc.net/problem/11727)                                                         | DP |
-| 토요일 | [포도주 시식](https://www.acmicpc.net/problem/2156)                                                           | DP  |
+| 금요일 | [수리공 항승](https://www.acmicpc.net/problem/1449)                                                         | Greedy |
+| 토요일 | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213)                                                           | Greedy  |
 
 
 
 ### 📚문제 담당
 
-![스크린샷 2024-02-15 223026](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/f2d3a346-3195-4349-856b-f917ebc3ea1f)
+![스크린샷 2024-02-21 233513](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/7c8eeb1a-50c4-43e6-a2d0-4dbc1b49a1c9)
 
 
 ### 로테이션
