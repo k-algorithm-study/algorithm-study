@@ -1,7 +1,9 @@
 package org.example.kw99j10.baekjoon.greedy;
 
 import java.util.Scanner;
-
+/**
+ * 팰린드롬 만들기 - Silver III
+ */
 public class Greedy14 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
