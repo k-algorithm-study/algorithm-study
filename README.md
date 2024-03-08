@@ -13,21 +13,22 @@
 <hr>
 
 
-### 문제 (2024.3.01 ~ 2024.3.07) 
+### 문제 (2024.3.08 ~ 2024.3.014) 
 | 요일   | 문제                                                                                                                                                           | 유형|
 |--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
-| 월요일 | [사냥꾼](https://www.acmicpc.net/problem/8983) | 이분 탐색 |
-| 화요일 | [입국심사](https://www.acmicpc.net/problem/3079) | 이분 탐색 |
-| 수요일 | [운동](https://www.acmicpc.net/problem/1956)     | 최단 경로 |
-| 목요일 | 스터디                                                | 회의    |
-| 금요일 | [빙산](https://www.acmicpc.net/problem/2573)                                                         | DFS/BFS |
-| 토요일 | [내리막 길](https://www.acmicpc.net/problem/1520)                                                           | DFS/BFS  |
+| 월요일 | [트리의 지름](https://www.acmicpc.net/problem/1967)             | 그래프 이론 |
+| 화요일 | [스타트링크](https://www.acmicpc.net/problem/5014)             | 그래프 이론 |
+| 수요일 | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)              | LV 2 |
+| 목요일 | 스터디                                                    | 회의    |
+| 금요일 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844)      | DP |
+| 토요일 | [퇴사](https://www.acmicpc.net/problem/14501)          | DP |
 
 
 
 ### 📚문제 담당
 
-![캡처](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/b2ae5512-7cbc-47a3-ac17-8aa6ea1dd8ad)
+![image](https://github.com/k-algorithm-study/algorithm-study/assets/75023467/2c9a07f0-4a09-4f2c-ae00-b7923706a7bc)
+
 
 
 ### 로테이션
