@@ -13,22 +13,21 @@
 <hr>
 
 
-### 문제 (2024.1.26 ~ 2024.2.1)
+### 문제 (2024.3.01 ~ 2024.3.07) 
 | 요일   | 문제                                                                                                                                                           | 유형|
 |--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
-| 월요일 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484), [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | LV1, LV2 |
-| 화요일 | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412), [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | Lv2 |
-| 수요일 | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410), [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)     | LV1, LV2  |
-| 목요일 | 스터디                                                                                                                                                          | 회의    |
-| 금요일 | [연속합](https://www.acmicpc.net/problem/1912), [파도반 수열](https://www.acmicpc.net/problem/9461)                                                                |  DP  |
-| 토요일 | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197), [영역 구하기](https://www.acmicpc.net/problem/2583)                                                                       | 그래프 이론  |
+| 월요일 | [사냥꾼](https://www.acmicpc.net/problem/8983) | 이분 탐색 |
+| 화요일 | [입국심사](https://www.acmicpc.net/problem/3079) | 이분 탐색 |
+| 수요일 | [운동](https://www.acmicpc.net/problem/1956)     | 최단 경로 |
+| 목요일 | 스터디                                                | 회의    |
+| 금요일 | [빙산](https://www.acmicpc.net/problem/2573)                                                         | DFS/BFS |
+| 토요일 | [내리막 길](https://www.acmicpc.net/problem/1520)                                                           | DFS/BFS  |
 
 
 
 ### 📚문제 담당
 
-![KakaoTalk_20240124_220201753](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/e65c49d6-a32f-4b59-a999-d6bc6a0ce4aa)
-
+![캡처](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/b2ae5512-7cbc-47a3-ac17-8aa6ea1dd8ad)
 
 
 ### 로테이션
@@ -39,7 +38,7 @@
 
 ### 난이도
 `프로그래머스(1-2단계)`
-`백준(실버5-골드4)`
+`백준(실버3-골드3)`
 
 <hr>
 
@@ -49,5 +48,5 @@
 
 ### 📚스터디 규칙
 - [백준](https://www.acmicpc.net/problem/tags), [프로그래머스](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&levels=2)에서 난이도에 부합하는 문제 순서대로 풀기
-- 하루에 지정한 `두 문제` 자신의 브랜치에 커밋
-- 노션에 자신이 맡은 문제에 대하여 해설 기입
+- 하루에 지정한 `문제` 자신의 브랜치에 커밋
+- Wiki(노션)에 자신이 맡은 문제에 대하여 해설 기입
