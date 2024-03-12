@@ -2,7 +2,7 @@ package org.example.hcu55.baekjoon.dp;
 
 import java.util.*;
 
-// 쉬운 계단 수, 실버 I
+// https://www.acmicpc.net/problem/5014
 public class 쉬운계단수 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -11,7 +11,7 @@ public class 쉬운계단수 {
         long mod = 1000000000;
         long[][] dp = new long[N + 1][10];
 
-        for (int i = 0; i < 10; i++) {
+        for (int i = 1; i < 10; i++) {
             dp[1][i] = 1L;
         }
 
