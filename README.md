@@ -13,22 +13,29 @@
 <hr>
 
 
-### 문제 (2024.3.08 ~ 2024.3.014) 
+### 문제 (2024.3.22 ~ 2024.3.28) 
 | 요일   | 문제                                                                                                                                                           | 유형|
 |--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
-| 월요일 | [트리의 지름](https://www.acmicpc.net/problem/1967)             | 그래프 이론 |
-| 화요일 | [스타트링크](https://www.acmicpc.net/problem/5014)             | 그래프 이론 |
-| 수요일 | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)              | LV 2 |
+| 월요일 | [아기상어](https://www.acmicpc.net/problem/16236)             | 구현 |
+| 화요일 | [N번째 큰 수](https://www.acmicpc.net/problem/2075)             | 정렬 |
+| 수요일 | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140)              | 정렬 |
 | 목요일 | 스터디                                                    | 회의    |
-| 금요일 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844)      | DP |
-| 토요일 | [퇴사](https://www.acmicpc.net/problem/14501)          | DP |
+| 금요일 | [행렬](https://www.acmicpc.net/problem/1080)      | 그리디 |
+| 토요일 | [뱀](https://www.acmicpc.net/problem/3190)          | 구현 |
 
 
 
 ### 📚문제 담당
 
+#### (3.08~3.14)
+
 ![image](https://github.com/k-algorithm-study/algorithm-study/assets/75023467/2c9a07f0-4a09-4f2c-ae00-b7923706a7bc)
 
+<hr>
+
+#### (3.22~3.28)
+
+![스크린샷 2024-03-17 135301](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/6f1d9f3d-b9ea-4a52-84eb-2c16be7fd402)
 
 
 ### 로테이션
