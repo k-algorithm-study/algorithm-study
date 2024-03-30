@@ -16,31 +16,23 @@
 ### 문제 (2024.3.22 ~ 2024.3.28) 
 | 요일   | 문제                                                                                                                                                           | 유형|
 |--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
-| 월요일 | [아기상어](https://www.acmicpc.net/problem/16236)             | 구현 |
-| 화요일 | [N번째 큰 수](https://www.acmicpc.net/problem/2075)             | 정렬 |
-| 수요일 | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140)              | 정렬 |
+| 월요일 | [과자 나눠주기](https://www.acmicpc.net/problem/16401)             | 이진 탐색 |
+| 화요일 | [소수의 연속합](https://www.acmicpc.net/problem/1644)             | 투 포인터 |
+| 수요일 | [서강그라운드](https://www.acmicpc.net/problem/14938)              | 최단 경로 |
 | 목요일 | 스터디                                                    | 회의    |
-| 금요일 | [행렬](https://www.acmicpc.net/problem/1080)      | 그리디 |
-| 토요일 | [뱀](https://www.acmicpc.net/problem/3190)          | 구현 |
+| 금요일 | [탈출](https://www.acmicpc.net/problem/3055)      | DFS/BFS |
+| 토요일 | [DSLR](https://www.acmicpc.net/problem/9019)          | DFS/BFS |
 
 
 
 ### 📚문제 담당
 
-#### (3.08~3.14)
-
-![image](https://github.com/k-algorithm-study/algorithm-study/assets/75023467/2c9a07f0-4a09-4f2c-ae00-b7923706a7bc)
-
-<hr>
-
-#### (3.22~3.28)
-
-![스크린샷 2024-03-17 135301](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/6f1d9f3d-b9ea-4a52-84eb-2c16be7fd402)
+![스크린샷 2024-03-30 165654](https://github.com/k-algorithm-study/algorithm-study/assets/103038606/8e169340-6529-47fd-afcc-b9e9a1663fcd)
 
 
 ### 로테이션
 - 그리디, 구현, 정렬
-- DFS/BFS, 이진 탐색, 최단 경로
+- DFS/BFS, 이진 탐색/투 포인터, 최단 경로
 - DP, 그래프 이론
 
 
