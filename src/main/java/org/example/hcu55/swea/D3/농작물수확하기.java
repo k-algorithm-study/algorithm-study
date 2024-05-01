@@ -42,6 +42,22 @@ public class 농작물수확하기 {
                 }
             }
 
+//            // 다른 사람 풀이, 이게 젤 간단하다.
+//            int sum2 = 0;
+//            for(int i = 0; i < N; i++) {
+//                String crop = br.readLine();    	// 한 줄 입력받음
+//
+//                if(i <= N / 2) {	                // 농장 위쪽 절반의 경우
+//                    for(int j = N / 2 - i; j < N / 2 + i + 1; j++) {
+//                        sum2 += crop.charAt(j) - '0';
+//                    }
+//                } else {                            // 농장 아래쪽 절반의 경우
+//                    for (int j = i - N / 2; j < N + N / 2 - i; j++) {
+//                        sum2 += crop.charAt(j) - '0';
+//                    }
+//                }
+//            }
+
             System.out.println("#" + testCase + " " + sum);
         }
     }
